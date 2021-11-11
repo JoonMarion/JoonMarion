@@ -1,4 +1,4 @@
-## Hi, there! 
+## Hi there! 
 - Cursando Engenharia de Software;
 - Estudando Java e Python;
 
