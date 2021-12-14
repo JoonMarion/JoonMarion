@@ -1,6 +1,6 @@
 ## Hi there! 
 - Cursando Engenharia de Software;
-- Estudando Java, Python e Bootstrap;
+- Estudando Java, Python e SQL;
 
 ## Tecnologias
  <div style="display: inline_block">
