@@ -1,5 +1,6 @@
 ## Hi there! 
 - Cursando Engenharia de Software;
+- Estagiário de desenvolvimento na empresa <strong/>Sea Telecom<strong/>;
 - Estudando JavaScript, TypeScript e React;
 
 ## Tecnologias e Frameworks
