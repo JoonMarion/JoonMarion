@@ -1,6 +1,6 @@
 ## Hi there! 
 - Cursando Engenharia de Software;
-- Estagiário de desenvolvimento na empresa <strong/>Sea Telecom<strong/>;
+- Estagiário de desenvolvimento na empresa <strong>Sea Telecom<strong/>;
 - Estudando JavaScript, TypeScript e React;
 - Contato: marianojoao52@gmail.com
 
