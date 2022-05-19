@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 ## Hi there! 
 - Cursando Engenharia de Software;
 - Estagiário de desenvolvimento na empresa Sea Telecom;
@@ -15,7 +17,7 @@
     <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
     <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-    <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img alling="center" height="30" width="40" class="devicon-github-original-wordmark" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     
 </div>
 
