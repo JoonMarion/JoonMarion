@@ -18,7 +18,12 @@
     <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />    
 </div>
 
-
+<div align="center">
+  <a href="https://github.com/JoonMarion">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoonMarion&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoonMarion&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 ## Conecte-se
   <a href="https://br.linkedin.com/in/joaomariano52?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
