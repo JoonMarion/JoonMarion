@@ -18,11 +18,6 @@
     <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />    
 </div>
 <br>
-<div>
-  <a href="https://github.com/JoonMarion">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoonMarion&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 
 ## Conecte-se
   <a href="https://br.linkedin.com/in/joaomariano52?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
