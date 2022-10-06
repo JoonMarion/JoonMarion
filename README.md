@@ -1,5 +1,5 @@
 ## Hi there! 
-- Cursando Engenharia de Software;
+- Cursando Engenharia de Software - Universidade do Estado do Pará;
 - Estagiário de desenvolvimento na empresa Sea Telecom;
 - Estudando Django, JavaScript, HTML, CSS, Bootstrap e Docker;
 - Contato: marianojoao52@gmail.com
