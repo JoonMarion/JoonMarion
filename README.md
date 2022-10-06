@@ -1,7 +1,7 @@
 ## Hi there! 
 - Cursando Engenharia de Software;
 - Estagiário de desenvolvimento na empresa Sea Telecom;
-- Estudando Django, React, JavaScript, HTML e CSS;
+- Estudando Django, JavaScript, HTML, CSS, Bootstrap e Docker;
 - Contato: marianojoao52@gmail.com
 
 ## Tecnologias / Frameworks / Ferramentas
