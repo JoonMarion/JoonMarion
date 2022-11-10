@@ -1,4 +1,4 @@
-<h1 align="center">~Hi there, i'm João Mariano! <img src="[https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif](https://www.hallmark.com/shop-shoebox/?navMenuSubTitle=By\%20Card\%20Collection&navMenu=Main\%20Menu&navTo=Shoebox&navLocation=Header&navMenuTitle=Cards)" width="50" style="border-radius:30%" align="center"></h1>
+<h1 align="center">~Hi there, i'm João Mariano! <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="50" style="border-radius:30%" align="center"></h1>
 
 - 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará;
 - 👨‍💻 Junior developer at Sea Telecom;
