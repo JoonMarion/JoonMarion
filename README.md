@@ -1,5 +1,5 @@
 
- <h1 align="center">~Hi there, i'm João Mariano! <img src="https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&w=1000" width="70" style="border-radius:20%" align="center"></h1>
+ <h1 align="center">~Hi there, i'm João Mariano! <img src="https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&w=1080" width="70" style="border-radius:20%" align="center"></h1>
 
 - 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará;
 - 👨‍💻 Junior developer at Sea Telecom;
