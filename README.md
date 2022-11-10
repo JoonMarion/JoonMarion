@@ -1,6 +1,6 @@
 
  <h1 align="center">~Hi there, i'm João Mariano! <img src="https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e475gsc9wrh2sjv6ji42sug40358wg2dkicfxk48m9o&rid=giphy.gif&ct=g" width="150" align="center"></h1>
-
+<iframe src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA">via GIPHY</a></p>
 - 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará;
 - 👨‍💻 Junior developer at Sea Telecom;
 - 📝 Currently learning React, JavaScript, TypeScript, StyledComponents and Docker;
