@@ -1,4 +1,4 @@
-<h1 align="center">~Hi there, i'm João Mariano! <img src="https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47mf4wwilrvz1q7bni54opur8cwxfbulv6mkxl7789&rid=giphy.gif&ct=g" width="50" style="border-radius:30%" align="center"></h1>
+<h1 align="center">~Hi there, i'm João Mariano! <img src="https://media2.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47mf4wwilrvz1q7bni54opur8cwxfbulv6mkxl7789&rid=giphy.gif&ct=g" width="70px" style="border-radius:20%" align="center"></h1>
 
 - 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará;
 - 👨‍💻 Junior developer at Sea Telecom;
