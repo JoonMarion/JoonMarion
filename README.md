@@ -1,10 +1,11 @@
-## Hi there! 
-- Cursando Engenharia de Software - Universidade do Estado do Pará;
-- Estagiário de desenvolvimento na empresa Sea Telecom;
-- Estudando Django, React, JavaScript, TypeScript e Docker;
-- Contato: marianojoao52@gmail.com
+<h1 align="center">~Hi there, i'm João Mariano!</h1>
 
-## Tecnologias / Frameworks / Ferramentas
+- 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará;
+- 👨‍💻 Junior developer at Sea Telecom;
+- 📝 Currently learning React, JavaScript, TypeScript, StyledComponents and Docker;
+- 📫 Contact: marianojoao52@gmail.com
+
+## Technologies and tools
  <div style="display: inline_block">
     <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -19,6 +20,6 @@
 </div>
 <br>
 
-## Conecte-se
+## Connect with me
   <a href="https://br.linkedin.com/in/joaomariano52?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
