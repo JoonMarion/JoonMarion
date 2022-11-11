@@ -1,12 +1,14 @@
-
- <h1 align="center">~Hi there, i'm João Mariano!</h1>
- 
-- 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará;
-- 👨‍💻 Junior developer at Sea Telecom;
-- 📝 Currently learning React, JavaScript, TypeScript, StyledComponents and Docker;
-- 📫 Email: marianojoao52@gmail.com
-- 📞 Contact(cell, Telegram and WhatsApp): (91) 98843-2057 
+<div>
+  <img src="https://media2.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif?cid=ecf05e4795eykhzdzapaldqshrtbt604vh3v87qxhxc0f5ve&rid=giphy.gif&ct=g" width="100" style="border-radius:20%" align="rigth">
+  <h1 align="center">~Hi there, i'm João Mariano!</h1>
+ - 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará;
+ - 👨‍💻 Junior developer at Sea Telecom;
+ - 📝 Currently learning React, JavaScript, TypeScript, StyledComponents and Docker;
+ - 📫 Email: marianojoao52@gmail.com
+ - 📞 Contact(cell, Telegram and WhatsApp): (91) 98843-2057 
 <br>
+</div>
+ 
 
 ### ⚙️ Technologies and tools
  <div style="display: inline_block">
