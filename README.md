@@ -8,7 +8,7 @@
 - 📞 Contact(cell, Telegram and WhatsApp): (91) 98843-2057 
 <br>
 
-### Technologies and tools
+### ⚙️ Technologies and tools
  <div style="display: inline_block">
     <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -24,7 +24,7 @@
 </div>
 <br>
 
-### Connect with me
+### 🌐 Connect with me
   <a href="https://br.linkedin.com/in/joaomariano52?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
