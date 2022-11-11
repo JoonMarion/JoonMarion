@@ -1,5 +1,6 @@
 
 <h1 align="center">~Hi there, i'm João Mariano!</h1>
+
 - 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará;
 - 👨‍💻 Junior developer at Sea Telecom;
 - 📝 Currently learning React, JavaScript, TypeScript, StyledComponents and Docker;
