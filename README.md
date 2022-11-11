@@ -5,6 +5,7 @@
 - 👨‍💻 Junior developer at Sea Telecom;
 - 📝 Currently learning React, JavaScript, TypeScript, StyledComponents and Docker;
 - 📫 Contact: marianojoao52@gmail.com
+<br>
 
 ### Technologies and tools
  <div style="display: inline_block">
