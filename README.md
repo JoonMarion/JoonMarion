@@ -4,7 +4,8 @@
 - 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará;
 - 👨‍💻 Junior developer at Sea Telecom;
 - 📝 Currently learning React, JavaScript, TypeScript, StyledComponents and Docker;
-- 📫 Contact: marianojoao52@gmail.com
+- 📫 Email: marianojoao52@gmail.com
+- 📞 Contact(cell, Telegram and WhatsApp): (91) 98843-2057 
 <br>
 
 ### Technologies and tools
