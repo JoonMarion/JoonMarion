@@ -27,7 +27,7 @@
 ### 🌐 Connect with me
 <div>
   <a href="https://br.linkedin.com/in/joaomariano52?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img src="https://media2.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif?cid=ecf05e47npihsvpzv2jj1zcox2v099x9m8pjis5k8q5nbr4c&rid=giphy.gif&ct=g" height="180em" align="rigth" float="rigth">
+  <img src="https://media2.giphy.com/media/ramBbsu5kGc8AJHd1h/giphy.gif?cid=ecf05e47npihsvpzv2jj1zcox2v099x9m8pjis5k8q5nbr4c&rid=giphy.gif&ct=g" height="180em" margin-right="0" float="rigth">
 </div>
 <br>
  
