@@ -6,7 +6,7 @@
 - 📝 Currently learning React, JavaScript, TypeScript, StyledComponents and Docker;
 - 📫 Email: marianojoao52@gmail.com
 - 📞 Contact(cell, Telegram and WhatsApp): (91) 98843-2057 
-- Visit my website: https://joaomariano.netlify.app/
+- 🚀 Visit my website: <a href="https://joaomariano.netlify.app/" target="_blank">https://joaomariano.netlify.app/</a>
 <br>
  
 
