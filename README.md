@@ -3,7 +3,7 @@
 
 - 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará;
 - 👨‍💻 Front-End Developer
-- 📝 Currently learning React, JavaScript, TypeScript, StyledComponents and Docker;
+- 📝 Currently learning Django, React, C++ and Competitive Programming;
 - 📫 Email: marianojoao52@gmail.com
 - 📞 Contact(cell, Telegram and WhatsApp): (91) 98843-2057 
 - 🚀 Visit my website: <a href="https://joaomariano.netlify.app/" target="_blank">https://joaomariano.netlify.app/</a>
