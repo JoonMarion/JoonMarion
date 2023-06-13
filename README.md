@@ -1,6 +1,5 @@
 
 <h1 align="center">~Hi there, i'm João Mariano!</h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonMarion&theme=tokyonight)](https://github.com/JoonMarion/github-readme-stats)
   - 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará;
   - 👨‍💻 Front-End Developer
   - 📝 Currently learning Django, React, C++ and Competitive Programming;
@@ -9,6 +8,7 @@
   - 🚀 Visit my website: <a href="https://joaomariano.netlify.app/" target="_blank">https://joaomariano.netlify.app/</a>
  <br>
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonMarion&theme=tokyonight)](https://github.com/JoonMarion/github-readme-stats)
 
 ### ⚙️ Technologies and tools
  <div style="display: inline_block">
