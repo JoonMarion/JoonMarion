@@ -1,13 +1,19 @@
 
 <h1 align="center">~Hi there, i'm João Mariano!</h1>
 
-- 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará;
-- 👨‍💻 Front-End Developer
-- 📝 Currently learning Django, React, C++ and Competitive Programming;
-- 📫 Email: marianojoao52@gmail.com
-- 📞 Contact(cell, Telegram and WhatsApp): (91) 98918-2059
-- 🚀 Visit my website: <a href="https://joaomariano.netlify.app/" target="_blank">https://joaomariano.netlify.app/</a>
-<br>
+<div>
+ <div>
+  - 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará;
+  - 👨‍💻 Front-End Developer
+  - 📝 Currently learning Django, React, C++ and Competitive Programming;
+  - 📫 Email: marianojoao52@gmail.com
+  - 📞 Contact(cell, Telegram and WhatsApp): (91) 98918-2059
+  - 🚀 Visit my website: <a href="https://joaomariano.netlify.app/" target="_blank">https://joaomariano.netlify.app/</a>
+ </div>
+ <div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonMarion&theme=tokyonight)](https://github.com/JoonMarion/github-readme-stats)
+ <br>
+</div>
  
 
 ### ⚙️ Technologies and tools
@@ -33,5 +39,3 @@
   <a href="https://br.linkedin.com/in/joaomariano52?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonMarion&theme=tokyonight)](https://github.com/JoonMarion/github-readme-stats)
