@@ -34,4 +34,5 @@
 </div>
 <br>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonMarion&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonMarion&theme=tokyonight)](https://github.com/JoonMarion/github-readme-stats)
