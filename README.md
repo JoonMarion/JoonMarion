@@ -7,8 +7,7 @@
 - 📞 Contact (cell, Telegram and WhatsApp): (91) 98918-2059
 - 🚀 Visit my website: [https://joaomariano.netlify.app/](https://joaomariano.netlify.app/)
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonMarion&theme=tokyonight)](https://github.com/JoonMarion/github-readme-stats) |
-| --- |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonMarion&theme=tokyonight)](https://github.com/JoonMarion/github-readme-stats){: .align-right}
 
 ### ⚙️ Technologies and tools
  <div style="display: inline_block">
@@ -33,3 +32,9 @@
   <a href="https://br.linkedin.com/in/joaomariano52?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
+
+<style>
+ .align-right {
+  float: right;
+}
+</style>
