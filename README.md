@@ -34,6 +34,6 @@
 <details>
   <summary>Stats</summary>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoonMarion&theme=tokyonight&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoonMarion&theme=tokyonight&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=200&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 </details>
 
