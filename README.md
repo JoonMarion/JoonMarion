@@ -1,6 +1,6 @@
 <h1 align="center">~Hi there, I'm João Mariano!</h1>
 
-- 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará;
+- 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará;   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoonMarion&theme=tokyonight&hide_border=true&card_width=150&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) 
 - 👨‍💻 Front-End Developer
 - 📝 Currently learning Django, React, C++ and Competitive Programming;
 - 📫 Email: marianojoao52@gmail.com
