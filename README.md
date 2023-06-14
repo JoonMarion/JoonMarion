@@ -36,9 +36,7 @@
  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoonMarion&theme=tokyonight) 
  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoonMarion&theme=tokyonight) 
- 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoonMarion&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoonMarion&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoonMarion&theme=tokyonight)
  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoonMarion&theme=tokyonight&utcOffset=8)
  
