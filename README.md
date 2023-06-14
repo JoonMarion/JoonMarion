@@ -30,3 +30,10 @@
   <a href="https://br.linkedin.com/in/joaomariano52?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
+
+<details>
+  <summary>Stats</summary>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoonMarion&theme=tokyonight&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</details>
+
