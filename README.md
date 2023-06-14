@@ -36,7 +36,7 @@
  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoonMarion&theme=tokyonight) 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoonMarion&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoonMarion&theme=tokyonight) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoonMarion&theme=tokyonight&utcOffset=8) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoonMarion&theme=tokyonight&hide_border=true&border_radius=5&card_heigth=200&card_width=340&hide_current_streak=true)](https://git.io/streak-stats)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoonMarion&theme=tokyonight&utcOffset=8) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoonMarion&theme=tokyonight&hide_border=true&border_radius=5&card_width=340&card_height=200&hide_current_streak=true)](https://git.io/streak-stats)
  
 </details>
 
