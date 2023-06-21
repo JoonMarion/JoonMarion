@@ -1,7 +1,7 @@
 <h1 align="center">~Hi there, I'm João Mariano!</h1>
 
 - 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará; 
-- 👨‍💻 Front-End Developer
+- 👨‍💻 Web Developer
 - 📝 Currently learning Django, React, C++ and Competitive Programming;
 - 📫 Email: marianojoao52@gmail.com
 - 📞 Contact (cell, Telegram and WhatsApp): (91) 98918-2059
