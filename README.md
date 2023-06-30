@@ -1,4 +1,4 @@
-<h1 align="center">~Hi there, I'm João Mariano!</h1>
+<h1 align="center">~Hi there, i'm João Mariano!</h1>
 
 - 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará; 
 - 👨‍💻 Web Developer
