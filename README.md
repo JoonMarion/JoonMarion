@@ -2,7 +2,7 @@
 
 - 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará; 
 - 👨‍💻 Web/Mobile Developer
-- 📝 Currently learning Django, React, C++ and Competitive Programming;
+- 📝 Currently learning Django, React, C++, Competitive Programming and Mobile Programming;
 - 📫 Email: marianojoao52@gmail.com
 - 📞 Contact (cell, Telegram and WhatsApp): (91) 98918-2059
 - 💻 Website: [https://joaomariano.netlify.app/](https://joaomariano.netlify.app/)
