@@ -1,10 +1,10 @@
 <h1 align="center">~Hi there, i'm João Mariano!</h1>
 
 - 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará; 
-- 👨‍💻 Web/Mobile Developer
+- 👨‍💻 Web Developer
 - 📝 Currently learning Django, C++, Competitive Programming, React and React Native;
 - 📫 Email: marianojoao52@gmail.com
-- 📞 Contact (cell, Telegram and WhatsApp): (91) 98918-2059
+- 📞 Contact (cell phone number, Telegram and WhatsApp): (91) 98918-2059
 - 💻 Website: [https://joaomariano.netlify.app/](https://joaomariano.netlify.app/)
 
 ### ⚙️ Technologies and tools
