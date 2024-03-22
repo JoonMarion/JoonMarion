@@ -2,7 +2,6 @@
 
 - 🧑‍🎓 Software Engineer student at Universidade do Estado do Pará; 
 - 👨‍💻 Web Developer
-- 📝 Currently learning Django, C++, Competitive Programming, React and React Native;
 - 📫 Email: marianojoao52@gmail.com
 - 📞 Contact (cell phone number, Telegram and WhatsApp): (91) 98918-2059
 - 💻 Website: [https://joaomariano.netlify.app/](https://joaomariano.netlify.app/)
@@ -29,15 +28,4 @@
 <div>
   <a href="https://br.linkedin.com/in/joaomariano52?trk=people-guest_people_search-card" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-<br>
-
-
-### 📈 Stats
-<details>
-  <summary>Dropdown</summary>
- 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoonMarion&theme=tokyonight) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoonMarion&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoonMarion&theme=tokyonight&utcOffset=8) 
- 
-</details>
 
