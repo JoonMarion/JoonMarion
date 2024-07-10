@@ -1,5 +1,5 @@
-<h2 align="center">~ I'm João Mariano!</h1>
-<h3 align="center"> Web Developer | Front-end </h3>
+<h1 align="center">~ I'm João Mariano!</h1>
+<h2 align="center"> Web Developer | Front-end </h3>
  
 - Software Engineer 
 - Email: marianojoao52@gmail.com
