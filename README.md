@@ -1,10 +1,10 @@
 <h1 align="center">~Hi there, i'm João Mariano!</h1>
+<h3 align="center"> Web Developer | Front-end </h3>
 
-- Software Engineer student at Universidade do Estado do Pará; 
-- Web Developer
+- Software Engineer; 
 - Email: marianojoao52@gmail.com
   
-### ⚙️ Technologies and tools
+### Technologies
  <div style="display: inline_block">
     <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -23,7 +23,7 @@
     <img alling="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 </div>
 
-### 🌐 Connect with me
+### Connect with me
 <div>
   <a href="https://www.linkedin.com/in/joaomariano-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
