@@ -3,7 +3,7 @@
 - Software Engineer student at Universidade do Estado do Pará; 
 - Web Developer
 - Email: marianojoao52@gmail.com
-
+- 
 ### ⚙️ Technologies and tools
  <div style="display: inline_block">
     <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -22,8 +22,6 @@
     <img alling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img alling="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 </div>
-<br>
-
 ### 🌐 Connect with me
 <div>
   <a href="https://www.linkedin.com/in/joaomariano-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
