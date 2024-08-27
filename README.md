@@ -6,7 +6,7 @@
 
 ### Connect with me
 <div>
-  <a href="https://www.linkedin.com/in/joaomariano-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/joaomariano-dev/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
   
 ### Technologies
