@@ -7,8 +7,7 @@
 
 ## 👤 About
 
-Full-stack developer with ~3 years of experience building web applications and working with DevOps practices. Currently back to actively contributing on GitHub. Finalist at the **SBC Programming Marathon 2023**.
-
+Full-stack developer with ~3 years of experience building web applications and working with DevOps practices.
 ---
 
 ## 🛠 Tech Stack
@@ -27,14 +26,12 @@ Full-stack developer with ~3 years of experience building web applications and w
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat&logo=htmx&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
