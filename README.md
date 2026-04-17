@@ -49,10 +49,11 @@ Full-stack developer with ~3 years of experience building web applications and w
 
 **Web Developer** — IntGest
 `Sep 2025 – Present`
+Django · MQTT · JavaScript · Celery · Automated Testing · Tailwind
 
 **Full-stack Developer** — Mindz
 `Apr 2024 – Jun 2025`
-Django · HTMX · Docker · ORM · Automated Testing
+Django · HTMX · JavaScript · Docker · Automated Testing · Tailwind
 
 **Frontend Developer** — Brio
 `Oct 2023 – Mar 2024`
@@ -66,12 +67,10 @@ Django · Docker · UML
 
 ## 🎓 Education
 
-**B.Sc. Software Engineering** — UEPA
-GPA 9.46 / 10
+**Software Engineering** — UEPA
 
 ---
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/[SEU USERNAME AQUI])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/[SEU USERNAME AQUI])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomariano-dev/)
