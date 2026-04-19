@@ -1,76 +1,52 @@
-# João Mariano
-
-**Software Engineer · Full-stack Developer**
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
+João Mariano
+Software Engineer · Full-stack Developer
 📍 Fortaleza, CE, Brazil
-
----
-
-## 👤 About
-
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+</div>
+👤 About
 Full-stack developer with ~3 years of experience building web applications and working with DevOps practices.
----
-
-## 🛠 Tech Stack
-
-**Languages**
-
+🛠 Tech Stack
+Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-
-**Backend**
-
+Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
-
-**Frontend**
-
+Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat&logo=htmx&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-**Database & Infrastructure**
-
+Database & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 💼 Experience
-
-**Web Developer** — IntGest
-`Sep 2025 – Present`
-Django · MQTT · JavaScript · Celery · Automated Testing · Tailwind
-
-**Full-stack Developer** — Mindz
-`Apr 2024 – Jun 2025`
-Django · HTMX · JavaScript · Docker · Automated Testing · Tailwind
-
-**Frontend Developer** — Brio
-`Oct 2023 – Mar 2024`
-React · TypeScript
-
-**Backend Developer** — Sea Telecom
-`Feb 2022 – Nov 2022`
-Django · Docker · UML
-
----
-
-## 🎓 Education
-
-**Software Engineering** — UEPA
-
----
-
-## 📬 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomariano-dev/)
+📊 GitHub Stats
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=joaomariano-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomariano-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</div>
+💼 Experience
+Web Developer — IntGest   `Sep 2025 – Present`
+> Django · MQTT · JavaScript · Celery · Automated Testing · Tailwind
+Full-stack Developer — Mindz   `Apr 2024 – Jun 2025`
+> Django · HTMX · JavaScript · Docker · Automated Testing · Tailwind
+Frontend Developer — Brio   `Oct 2023 – Mar 2024`
+> React · TypeScript
+Backend Developer — Sea Telecom   `Feb 2022 – Nov 2022`
+> Django · Docker · UML
+🎓 Education
+Software Engineering — UEPA
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" width="100%"/>
+</div>
