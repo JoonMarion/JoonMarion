@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
 João Mariano
 Software Engineer · Full-stack Developer
 📍 Fortaleza, CE, Brazil
@@ -33,8 +32,8 @@ Database & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 📊 GitHub Stats
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=joaomariano-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomariano-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=JoonMarion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoonMarion&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </div>
 💼 Experience
 Web Developer — IntGest   `Sep 2025 – Present`
@@ -47,6 +46,3 @@ Backend Developer — Sea Telecom   `Feb 2022 – Nov 2022`
 > Django · Docker · UML
 🎓 Education
 Software Engineering — UEPA
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" width="100%"/>
-</div>
