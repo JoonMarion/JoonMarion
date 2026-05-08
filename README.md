@@ -31,5 +31,3 @@
   <img height="180em" src="https://streak-stats.demolab.com/?user=JoonMarion&theme=dark&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JoonMarion&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
-## Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaomariano-dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaomariano199)
